@@ -1,0 +1,6 @@
+models/**
+*.pt
+*.pth
+*.onnx
+*.rar
+*.7z
